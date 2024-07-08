@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student from Hungary</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-cubemelt-hi-ggmeredyjn97u4ot.gif">
 
-- 🔭 I’m currently working on [CANSAT-2024](https://www.cansatverseny.hu/)
+- 🔭 I'm currently studying on [TryHackme](https://tryhackme.com/p/ICE550)
 
 - 🌱 I’m currently learning **Python and C#**
 
