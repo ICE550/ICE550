@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ICE550</h1>
 <h3 align="center">A passionate student from Hungary</h3>
+
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-cubemelt-hi-ggmeredyjn97u4ot.gif">
 
 - 🔭 I'm currently studying on [TryHackme](https://tryhackme.com/p/ICE550)
@@ -9,6 +10,8 @@
 - 📫 How to reach me **Discord: ICE550**
 
 - ⚡ Fun fact **I think I am funny**
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/ICE550.png" alt="TryHackMe">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
