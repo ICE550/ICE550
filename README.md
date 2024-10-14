@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/ICE550.png" alt="Your Image Badge" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
