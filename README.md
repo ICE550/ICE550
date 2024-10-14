@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/ICE550.png"/>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2463410" style='border:none;'></iframe>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
